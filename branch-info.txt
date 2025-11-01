@@ -1,5 +1,14 @@
 Branches in this repo (with details):
 
+- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
+  SHA: 6f8d3df3dbd3bbd74c2d8dadb613d63e5c71a298
+  Commits: 14
+  Recent commits:
+    6f8d3df | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-01T06:19:47Z | Bump python in /presidio-anonymizer
+    3c6bbb9 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T15:24:04Z | Auto-update branch-info.txt
+    88f6863 | Author: Taha Aljasem <196586587+tahaEMU@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T11:23:51-04:00 | Merge pull request #2 from tahaEMU/lab7
+    6ce9b3f | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T15:22:30Z | Auto-update branch-info.txt
+    75f77ff | Author: Taha Aljasem <196586587+tahaEMU@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T11:22:21-04:00 | Merge branch 'main' into lab7
 - dependabot/github_actions/actions/checkout-5
   SHA: 735ef43ba7daea00c45955b375e96f12dc6bda2d
   Commits: 3
@@ -17,11 +26,11 @@ Branches in this repo (with details):
     6ce1b1a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T14:48:48Z | Auto-update branch-info.txt
     f52504c | Author: Taha Aljasem <196586587+tahaEMU@users.noreply.github.com> | Committer: Taha Aljasem <196586587+tahaEMU@users.noreply.github.com> | Date: 2025-10-07T14:41:11Z | Lab7 complete: logger and debug tests, encrypt coverage, parametrized keys
 - main
-  SHA: 88f6863b0bacd906d08f73746217a61ae232324d
-  Commits: 12
+  SHA: 3c6bbb935f7b7f4cb042e45928e4989369a6067b
+  Commits: 13
   Recent commits:
+    3c6bbb9 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T15:24:04Z | Auto-update branch-info.txt
     88f6863 | Author: Taha Aljasem <196586587+tahaEMU@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T11:23:51-04:00 | Merge pull request #2 from tahaEMU/lab7
     6ce9b3f | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T15:22:30Z | Auto-update branch-info.txt
     75f77ff | Author: Taha Aljasem <196586587+tahaEMU@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T11:22:21-04:00 | Merge branch 'main' into lab7
     a9a4e82 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T15:03:21Z | Auto-update branch-info.txt
-    c992b92 | Author: Taha Aljasem <196586587+tahaEMU@users.noreply.github.com> | Committer: Taha Aljasem <196586587+tahaEMU@users.noreply.github.com> | Date: 2025-10-07T15:01:58Z | Autograder tweaks: logger keyword loop; explicit mock return_value; exact-length keys for validate()
